@@ -19,7 +19,7 @@ REACT_APP_SALESFORCE_INSTANCE_URL = "[SFDC Instance]"
 REACT_APP_SALESFORCE_USERNAME = "[Your SFDC username]"
 REACT_APP_SALESFORCE_PASSWORD = "[Your SFDC password] + [Your Security Key]"
 REACT_APP_ALGOLIA_APP_ID = "[Your Algolia API ID]"
-REACT_APP_ALGOLIA_API_KEY = "[Your Aloglia API Key that has access to your index]"
+REACT_APP_ALGOLIA_API_KEY = "[Your Algolia API Key that has access to your index]"
 REACT_APP_ALGOLIA_SEARCH_API_KEY = "[Your Algolia Search API Key]"
 ```
 6. Then save the file
